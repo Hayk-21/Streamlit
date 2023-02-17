@@ -1,0 +1,14 @@
+aiortc==1.3.2
+matplotlib==3.5.1
+numpy==1.22.3
+opencv-python-headless==4.5.5.64
+pydub==0.25.1
+streamlit==1.16.0
+streamlit_webrtc==0.44.2
+typing_extensions==4.1.1
+protobuf~=3.19.0
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+facenet-pytorch==2.5.2
+av==9.2.0
+Pillow==8.0.1

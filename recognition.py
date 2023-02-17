@@ -2,7 +2,6 @@ import os
 import streamlit as st
 import face_recognition
 import av
-import uuid
 import cv2
 from streamlit_webrtc import VideoProcessorBase, webrtc_streamer
 
