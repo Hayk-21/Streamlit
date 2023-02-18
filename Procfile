@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run app.py
+web: apt-get install libboost-all-dev libgtk-3-dev build-essential cmake && sh setup.sh && streamlit run app.py
