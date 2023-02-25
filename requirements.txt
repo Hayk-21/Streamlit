@@ -1,5 +1,9 @@
-av==9.2.0
-Pillow==9.4.0
-streamlit==1.18.1
-streamlit_webrtc==0.44.6
-opencv_python==4.7.0.68
+# av==9.2.0
+# Pillow==9.4.0
+# streamlit==1.18.1
+# streamlit_webrtc==0.44.6
+# opencv_python==4.7.0.68
+
+numpy
+face_recognition
+dlib==19.22.0
